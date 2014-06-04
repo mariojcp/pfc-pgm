@@ -36,6 +36,8 @@ public class PFCPGM extends Application {
         System.out.println("sads");
         System.out.println("asjdkl");
         System.out.println("asdsda");
+        System.out.println("asdasdaasd");
+        System.out.println("sdfsdf");
     }
     
 }
