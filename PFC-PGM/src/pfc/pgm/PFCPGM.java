@@ -33,11 +33,7 @@ public class PFCPGM extends Application {
      */
     public static void main(String[] args) {
         launch(args);
-        System.out.println("sads");
-        System.out.println("asjdkl");
-        System.out.println("asdsda");
-        System.out.println("asdasdaasd");
-        System.out.println("sdfsdf");
+        System.out.println("TESTE PARA O TIAGO");
     }
     
 }
